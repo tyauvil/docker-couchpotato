@@ -2,7 +2,7 @@ FROM alpine
 
 MAINTAINER ty.auvil@gmail.com
 
-ENV DUMB_VERSION=1.1.3 \
+ENV DUMB_VERSION=1.2.0 \
     COUCH_URL=https://github.com/CouchPotato/CouchPotatoServer/archive/build/3.0.1.tar.gz \
     CONFIG_FILE=/config/config.ini \
     DATADIR=/config/data \
